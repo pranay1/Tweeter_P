@@ -1,0 +1,8 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">Tweeter_P</string>
+    <string android:name="com.twitter.sdk.android.CONSUMER_KEY">EItRPO7b9Jet7lRp8LSIEK3yD</string>
+    <string android:name="com.twitter.sdk.android.CONSUMER_SECRET">DmF21m0qBBwMer8CRkOrdUR6W15RxXWTGLJCOVaOlBg3H38vKc</string>
+</resources>
+
+
+
